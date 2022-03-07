@@ -1,0 +1,45 @@
+body {
+  background: #7f7fd5;
+  background: -webkit-linear-gradient(to right, #f7af9e, #bf8395, #b1d0d3);
+  background: linear-gradient(to right, #f7af9e, #bf8395, #b1d0d3);
+  font-family: Comic Sans MS;
+  font-size: 30px;
+}
+
+h1 {
+  margin: 10px 0 30px 0;
+  letter-spacing: 10px;
+  font-size: 35px;
+  color: #111;
+}
+
+h2 {
+  margin: 10px 0 30px 0;
+  letter-spacing: 10px;
+  font-size: 20px;
+  color: #111;
+}
+
+p {
+  font-size: 25px;
+  font-family: "Letters for Learners", monospace;
+  color: rgb(37, 65, 76);
+}
+
+ul {
+  list-style: georgian;
+}
+
+footer {
+  background: #F291BE;
+  padding: 60px 0 30px 0;
+  margin: auto;
+}
+
+img {
+  margin: 5px;
+}
+
+.Center {
+  text-align: center;
+}
